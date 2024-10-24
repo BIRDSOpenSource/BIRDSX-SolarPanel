@@ -40,12 +40,8 @@ BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 ```bash
 
 ├── .gitattributes
-├── BIRDS-X Solar Panel
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
+├── 
+├── Manual (SML-2K1MV1) (1).pdf
 ├── LICENSE
 └── README.md
 
