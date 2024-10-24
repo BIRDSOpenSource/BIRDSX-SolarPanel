@@ -5,8 +5,7 @@
   </a>
 </div>
 
-
-<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/055720a1-5845-43c9-b26e-dfcc6dc78b23"> <img width="40%" src="https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports/assets/100206676/4adeca5e-c683-47f9-b4a4-c95ebf40f177">
+<img width="765" alt="birds x" src="https://github.com/user-attachments/assets/8aa7c5b7-313c-48e7-952b-81ce0ce1a703">
 
 # BIRDSX-Solar_Panel
  Documentation for the Solar Panel files of the BIRDSX Satellite.
