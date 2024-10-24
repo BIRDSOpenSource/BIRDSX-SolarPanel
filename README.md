@@ -3,7 +3,7 @@
   <a href="https://lean-sat.org/opensource/">
   <img alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
   </a>
-</div>
+</div> 
 
 <div align="center">
   <img width="125" alt="birds x" src="https://github.com/user-attachments/assets/8aa7c5b7-313c-48e7-952b-81ce0ce1a703">
@@ -31,7 +31,7 @@ CubeSat: 2U (20x10x10) cm3
 
 Weight: 1.13kg
 
-Launch Date: 21st February 2021 
+Launch Date: 21st February 2025
 
 BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 
