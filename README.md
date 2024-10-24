@@ -5,7 +5,9 @@
   </a>
 </div>
 
-<img width="765" alt="birds x" src="https://github.com/user-attachments/assets/8aa7c5b7-313c-48e7-952b-81ce0ce1a703">
+<div align="center">
+  <img width="125" alt="birds x" src="https://github.com/user-attachments/assets/8aa7c5b7-313c-48e7-952b-81ce0ce1a703">
+</div>
 
 # BIRDSX-Solar_Panel
  Documentation for the Solar Panel files of the BIRDSX Satellite.
@@ -38,7 +40,7 @@ BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 ```bash
 
 ├── .gitattributes
-├── BIRDS-X Soalr Panel
+├── BIRDS-X Solar Panel
 │   ├── 
 │   ├── 
 │   ├── 
